@@ -1,0 +1,3 @@
+AddDefaultCharset utf-8   #устанавливаем кодировку
+RewriteEngine On   #включаем механизм перенаправлений
+RewriteRule (.*) public/1$   #запоминаем первый запрос(что бы там не было) и отправлем в папку public
