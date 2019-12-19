@@ -1,4 +1,7 @@
 <?php
 require_once dirname(__DIR__) . "/config/init.php";
+require_once LIBS . "/functions.php";
 
-//var_dump($_SERVER['REQUEST_URI']);
+new \ishop\App();
+debug(\ishop\App::$app->getProperties());
+
