@@ -24,3 +24,15 @@
 =====================
 [2019-12-20 07:36:33] Текст ошибки: Метод app\controllers\PageController::indexAction не найден! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
 =====================
+[2019-12-20 09:32:14] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 38
+=====================
+[2019-12-20 09:50:39] Текст ошибки: syntax error, unexpected '0' (T_LNUMBER), expecting function (T_FUNCTION) | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php | Строка: 63
+=====================
+[2019-12-20 09:52:13] Текст ошибки: syntax error, unexpected '=', expecting ']' | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php | Строка: 16
+=====================
+[2019-12-20 09:53:30] Текст ошибки: syntax error, unexpected '=', expecting ']' | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php | Строка: 16
+=====================
+[2019-12-20 09:54:55] Текст ошибки: syntax error, unexpected '0' (T_LNUMBER), expecting function (T_FUNCTION) | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php | Строка: 63
+=====================
+[2019-12-20 09:57:41] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php | Строка: 14
+=====================

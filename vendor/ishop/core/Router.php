@@ -35,6 +35,7 @@ class Router
                 if(method_exists($controllerObject, $action))
                 {
                     $controllerObject->$action();
+                    $controllerObject->getView();
                 } else {
                     throw new \Exception("Метод $controller::$action не найден!", 404);
                 }
@@ -42,7 +43,7 @@ class Router
                 throw new \Exception("Контроллер $controller не найден!", 404);
             }
         } else {
-            throw new \Exception('Страница не найдена!', 404);
+            throw new \Exception("Страница не найдена!", 404);
         }
     }
 
