@@ -8,3 +8,19 @@
 =====================
 [2019-12-19 17:35:36] Текст ошибки: Cтраница не найдена | Файл: C:\OSPanel\domains\ishop.loc\public\index.php | Строка: 7
 =====================
+[2019-12-20 07:01:04] Текст ошибки: Страница не найдена! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 32
+=====================
+[2019-12-20 07:01:04] Текст ошибки: Страница не найдена! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 32
+=====================
+[2019-12-20 07:01:36] Текст ошибки: Страница не найдена! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 32
+=====================
+[2019-12-20 07:33:26] Текст ошибки: Контроллер app\controllers\PageNewController не найден! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 42
+=====================
+[2019-12-20 07:34:09] Текст ошибки: Контроллер app\controllers\PageNewController не найден! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 42
+=====================
+[2019-12-20 07:34:12] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=====================
+[2019-12-20 07:34:13] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=====================
+[2019-12-20 07:36:33] Текст ошибки: Метод app\controllers\PageController::indexAction не найден! | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=====================
