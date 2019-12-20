@@ -1,6 +1,6 @@
 AddDefaultCharset utf-8
 RewriteEngine On
-RewriteRule (.*) public/1$
+RewriteRule (.*) public/$1
 
 #1.устанавливаем кодировку
 #2.включаем механизм перенаправлений
